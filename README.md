@@ -1,4 +1,4 @@
 # hello-world
 First try
-**Tyting to learn how to code**
+**Trying to learn how to code**
 again
